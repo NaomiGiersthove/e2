@@ -1,0 +1,26 @@
+- Bar lijst met drankjes die moeten worden klaargemaakt
+- Kok lijst eten dat klaargemaakt moet worden
+- Waarschuwing bij een noshow die opnieuw wilt reserveren
+- Bon kunnnen uitdraaien voor klant met de producten en prijs en totaalprijs
+- Moet menukaart en dranklijst kunnen genereren
+- Moet lijst met huidige reserveringen voor de dag kunnen oproepen
+- Bij reservering:
+	Achternaam
+	Datum en tijdstip
+	Aantal personen
+	Eventuele allergien
+	Telefoonnummer
+	Opmerkingen
+
+Serveren: tafel, aantal, gerecht, geserveerd
+Gegevens: Naam, tel, email, edit, delete
+Reserveringen: Datum, tijd, klantnaam, tel, aantal, crud
+Bestel: artikel, id, prijs, totaal, crud, print
+Bon: product, aantal, prijs p/s, totaal, subtotaal
+Kok: tafel, aantal, gerecht
+ober: totaal, aantal, gerecht, gereserveerd
+bar: zelfde maar drinken
+Eten: code, omsch, prijs, valt onder, crud
+onderhoud klanten, drinken, eten
+menu hoofdgroepen: code, onschrijving , crud
+menu subgroepen: code, osmc, valt onder, crud
